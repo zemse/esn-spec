@@ -27,6 +27,9 @@
                       },
                       "70":{
                           "contract":"0x1e7b35413c2193735B67093d9Ace81A23579D20A"
+                      },
+                      "83":{
+                          "safeContract":"0xf620b0F20F90Ef5bF8C05aD65981F26775f8a32B"
                       }
                   }
                 }
