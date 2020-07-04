@@ -13,14 +13,8 @@
                 "0x36560493644fbb79f1c38d12ff096f7ec5d333b7"
               ]
             },
-            "325": {
-              "safeContract": "0x3bEb087e33eC0B830325991A32E3F8bb16A51317"
-            },
-            "530": {
-              "contract": "0x3bEb087e33eC0B830325991A32E3F8bb16A51317"
-            },
-            "575": {
-              "contract": "0xC4336494606203e3907539d5b462A5cb7853B3C6"
+            "45": {
+              "safeContract": "0xc4cfb05119Ea1F59fb5a8F949288801491D00110"
             }
           }
         }
