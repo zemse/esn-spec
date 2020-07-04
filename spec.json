@@ -15,6 +15,9 @@
             },
             "325": {
               "safeContract": "0x3bEb087e33eC0B830325991A32E3F8bb16A51317"
+            },
+            "530": {
+              "contract": "0x3bEb087e33eC0B830325991A32E3F8bb16A51317"
             }
           }
         }
