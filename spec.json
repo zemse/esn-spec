@@ -3,7 +3,7 @@
   "engine": {
     "authorityRound": {
       "params": {
-        "stepDuration": "4",
+        "stepDuration": "5",
         "validators": {
           "multi": {
             "0": {
