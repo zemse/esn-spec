@@ -4,6 +4,9 @@
     "authorityRound": {
       "params": {
         "stepDuration": "5",
+        "blockReward": "0x0",
+        "maximumUncleCountTransition": 0,
+        "maximumUncleCount": 0,
         "validators": {
           "multi": {
             "0": {
@@ -22,7 +25,7 @@
           }
         },
         "blockRewardContractAddress": "0xe021bf70cE7C47d9744b2BdbFC7bdA1b4C7cAbD9",
-        "blockRewardContractTransition": "0x10450"
+        "blockRewardContractTransition": 52525
       }
     }
   },
