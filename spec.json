@@ -15,9 +15,14 @@
             },
             "222": {
               "safeContract": "0x7F87f9830baB8A591E6f94fd1A47EE87560B0bB0"
+            },
+            "51600": {
+              "safeContract": "0x7b0E5aCA6F088691561022A0dB37830b56cb581a"
             }
           }
-        }
+        },
+        "blockRewardContractAddress": "0xe021bf70cE7C47d9744b2BdbFC7bdA1b4C7cAbD9",
+        "blockRewardContractTransition": "0x10450"
       }
     }
   },
