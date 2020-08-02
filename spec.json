@@ -29,7 +29,7 @@
   "params": {
     "gasLimitBoundDivisor": "0x400",
     "maximumExtraDataSize": "0x20",
-    "minGasLimit": "0x1388",
+    "gasLimit": "0x6cfdc9",
     "networkID": "0x144c",
     "eip155Transition": 0,
     "validateChainIdTransition": 0,
