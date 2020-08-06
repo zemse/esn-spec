@@ -1,0 +1,31 @@
+# Node Name: cdnnode
+# IMP: create dependency files are reserved_peers.txt and node.pwds (add keystores in keys folder and replace the engine_signer address)
+
+[parity]
+chain = "spec.json"
+base_path = "/tmp/parity0"
+
+[network]
+port = 30300
+reserved_only = true
+reserved_peers = "./reserved_peers.txt"
+
+[rpc]
+port = 8540
+apis = ["web3", "eth", "net", "personal", "parity", "parity_set", "traces", "rpc", "parity_accounts"]
+hosts = ["all"]
+cors = ["all"]
+
+[websockets]
+port = 8450
+
+[account]
+password = ["node.pwds"]
+
+# [mining]
+# engine_signer = "0xb4fb9d198047fe763472d58045f1d9341161eb73"
+# force_sealing = true
+
+[footprint]
+tracing = "on"
+pruning = "archive"
