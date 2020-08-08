@@ -7,7 +7,7 @@ base_path = "/tmp/parity0"
 
 [network]
 port = 30300
-reserved_only = true
+# reserved_only = true
 reserved_peers = "./reserved_peers.txt"
 
 [rpc]
