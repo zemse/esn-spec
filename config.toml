@@ -3,7 +3,7 @@
 
 [parity]
 chain = "spec.json"
-base_path = "/tmp/parity0"
+base_path = "esn"
 
 [network]
 port = 30300
@@ -19,8 +19,8 @@ cors = ["all"]
 [websockets]
 port = 8450
 
-[account]
-password = ["node.pwds"]
+# [account]
+# password = ["node.pwds"]
 
 # [mining]
 # engine_signer = "0xb4fb9d198047fe763472d58045f1d9341161eb73"
