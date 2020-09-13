@@ -17,11 +17,11 @@
               ]
             },
             "8500": {
-              "safeContract": "0xA3C6cf908EeeebF61da6e0e885687Cab557b5e3F"
+              "safeContract": "0x8418249278d74D46014683A8029Fd6fbC88482a1"
             }
           }
         },
-        "blockRewardContractAddress": "0x44F70d80642998F6ABc424ceAf1E706a479De8Ce",
+        "blockRewardContractAddress": "0x2AA786Cd8544c50136e5097D5E19F6AE10E02543",
         "blockRewardContractTransition": 8500
       }
     }
